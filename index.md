@@ -2,4 +2,4 @@
 
 Choose a branch to continue.
 
-- [Notes](/notes/index)
+- [Notes](land-er.github.io/notes/index)
